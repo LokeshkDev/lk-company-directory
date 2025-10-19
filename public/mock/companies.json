@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Advay Traders",
+    "industry": "Retail",
+    "location": "Chennai",
+    "employees": 24,
+    "description": "Local goods distributor."
+  },
+  {
+    "id": 2,
+    "name": "Bluewave Software",
+    "industry": "Software",
+    "location": "Bengaluru",
+    "employees": 120,
+    "description": "Web & mobile solutions."
+  },
+  {
+    "id": 3,
+    "name": "GreenFields Agri",
+    "industry": "Agriculture",
+    "location": "Coimbatore",
+    "employees": 45,
+    "description": "Organic farm supplier."
+  },
+  {
+    "id": 4,
+    "name": "Nimbus Cloud",
+    "industry": "Software",
+    "location": "Hyderabad",
+    "employees": 320,
+    "description": "Cloud infra platform."
+  },
+  {
+    "id": 5,
+    "name": "UrbanBuild Constructions",
+    "industry": "Construction",
+    "location": "Chennai",
+    "employees": 68,
+    "description": "Residential contractors."
+  },
+  {
+    "id": 6,
+    "name": "Aster Logistics",
+    "industry": "Logistics",
+    "location": "Pune",
+    "employees": 85,
+    "description": "Freight and delivery services."
+  },
+  {
+    "id": 7,
+    "name": "Cobalt Finance",
+    "industry": "Finance",
+    "location": "Mumbai",
+    "employees": 210,
+    "description": "Fintech lending platform."
+  },
+  {
+    "id": 8,
+    "name": "Dynamo Energy",
+    "industry": "Energy",
+    "location": "Delhi",
+    "employees": 150,
+    "description": "Renewable energy solutions."
+  },
+  {
+    "id": 9,
+    "name": "EchoMedia Studios",
+    "industry": "Media",
+    "location": "Kolkata",
+    "employees": 34,
+    "description": "Content production house."
+  },
+  {
+    "id": 10,
+    "name": "Fulcrum Health",
+    "industry": "Healthcare",
+    "location": "Bengaluru",
+    "employees": 95,
+    "description": "Healthcare tech services."
+  },
+  {
+    "id": 11,
+    "name": "Glacier Foods",
+    "industry": "Food Manufacturing",
+    "location": "Ahmedabad",
+    "employees": 240,
+    "description": "Packaged foods & distribution."
+  },
+  {
+    "id": 12,
+    "name": "Helio Motors",
+    "industry": "Automotive",
+    "location": "Chennai",
+    "employees": 420,
+    "description": "Electric vehicle manufacturer."
+  },
+  {
+    "id": 13,
+    "name": "Ionics Research",
+    "industry": "Biotech",
+    "location": "Mysore",
+    "employees": 60,
+    "description": "Biotech R&D lab."
+  },
+  {
+    "id": 14,
+    "name": "Junction Realty",
+    "industry": "Real Estate",
+    "location": "Pune",
+    "employees": 52,
+    "description": "Commercial property developers."
+  },
+  {
+    "id": 15,
+    "name": "Keystone Security",
+    "industry": "Security",
+    "location": "Gurgaon",
+    "employees": 28,
+    "description": "Physical & cyber security services."
+  }
+]
